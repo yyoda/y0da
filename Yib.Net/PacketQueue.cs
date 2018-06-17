@@ -4,18 +4,6 @@ using System.IO;
 
 namespace Net
 {
-    public struct PacketMetadata
-    {
-        public PacketMetadata(int offset, int size)
-        {
-            Offset = offset;
-            Size = size;
-        }
-
-        public int Offset { get; }
-        public int Size { get; }
-    }
-
     public class PacketQueue
     {
         private MemoryStream _stream = new MemoryStream();
