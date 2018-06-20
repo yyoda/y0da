@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yib", "Yib\Yib.csproj", "{7CD476E4-A4A3-4FF3-9B78-F8D039659134}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yib.Net", "Yib.Net\Yib.Net.csproj", "{B31AEA3B-B321-46EF-8B5C-A849C3D56C3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CD476E4-A4A3-4FF3-9B78-F8D039659134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CD476E4-A4A3-4FF3-9B78-F8D039659134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CD476E4-A4A3-4FF3-9B78-F8D039659134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CD476E4-A4A3-4FF3-9B78-F8D039659134}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B31AEA3B-B321-46EF-8B5C-A849C3D56C3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B31AEA3B-B321-46EF-8B5C-A849C3D56C3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B31AEA3B-B321-46EF-8B5C-A849C3D56C3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B31AEA3B-B321-46EF-8B5C-A849C3D56C3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FC31D6B-548B-4DD9-B364-979F1CD46909}
+	EndGlobalSection
+EndGlobal
