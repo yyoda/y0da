@@ -16,4 +16,7 @@
   <ItemGroup>
     <None Remove=".DS_Store" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Yib.Net\Yib.Net.csproj" />
+  </ItemGroup>
 </Project>
