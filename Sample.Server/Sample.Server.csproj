@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Sample.Client\obj\Debug\netcoreapp2.1\Sample.Client.assets.cache" />
+    <None Remove="Sample.Client\obj\Sample.Client.csproj.nuget.g.props" />
+    <None Remove="Sample.Client\obj\Sample.Client.csproj.nuget.g.targets" />
+    <None Remove="Sample.Client\obj\project.assets.json" />
+    <None Remove="Sample.Client\obj\Sample.Client.csproj.nuget.cache" />
+  </ItemGroup>
+</Project>
